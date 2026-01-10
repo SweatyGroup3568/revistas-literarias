@@ -80,6 +80,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 #### Mexico
 
 * [Museo Soumaya](https://www.museosoumaya.org/revistas-anteriores/)
+* [El cuento](https://www.elcuentorevistadeimaginacion.org/) (caido, urge que se levante)
 * [Conspiratio](https://www.conspiratio.mx/numeros-pasados) (archivo)
 * [Archivo Desobediente](https://archivodesobediente.chopo.unam.mx/index.php/Browse/objects/facet/type_facet/id/489/view/images/key/e7ea7a9363bf62768d1a37a4a0c78efa)
 * [Mi Valedor](https://www.mivaledor.com/category/revistas-digitales/)
