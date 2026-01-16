@@ -83,7 +83,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Museo Soumaya](https://www.museosoumaya.org/revistas-anteriores/)
 * [El cuento](https://www.elcuentorevistadeimaginacion.org/) (caido, urge que se levante)
 * [Radiador Magazine](https://drive.google.com/drive/folders/1UgT8dSlU2ac7M0f8xkHy5x3xllkFVBrC)
-* [Acequias](https://www.iberotorreon.mx/publico/acequias.php) (no encontrado, guardado parcialmente en Internet Archive)
+* [Acequias](https://www.iberotorreon.mx/publico/acequias.php)
 * [Palabrijes](https://uacm.edu.mx/palabrijes/)
 * [Conspiratio](https://www.conspiratio.mx/numeros-pasados) (archivo)
 * [Archivo Desobediente](https://archivodesobediente.chopo.unam.mx/index.php/Browse/objects/facet/type_facet/id/489/view/images/key/e7ea7a9363bf62768d1a37a4a0c78efa)
@@ -100,6 +100,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Palabrerías](https://palabrerias.com/category/revista-palabrerias-3/)
 * [Migala](https://migala.mx/)
 * [Blanco Móvil](https://blancomovil.com.mx/impresa/)
+* [Irradiación](https://irradiacion.com.mx/)
 
 #### Argentina
 
