@@ -8,8 +8,6 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 
 **imaginación**. f. Programa que permite acceder a información sobre un tema determinado. ǁ _Lugar para jugar_."
 
-Que cualquiera de estos cuentos, poesía o ensayo los agarre confesados...
-
 ## Contenidos
 
 * [Revistas Indexadas](#revistas-indexadas)
