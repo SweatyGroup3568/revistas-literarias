@@ -16,6 +16,8 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 
 * [Explora](#explora)
 
+* [Misceláneo]()
+
 ### Revistas Indexadas
 
 * [Conspiratio](https://conspiratio.mx)
@@ -79,7 +81,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 #### Mexico
 
 * [Museo Soumaya](https://www.museosoumaya.org/revistas-anteriores/)
-* [El cuento](https://www.elcuentorevistadeimaginacion.org/) (caido, urge que se levante)
+* [El cuento](https://www.elcuentorevistadeimaginacion.org/)
 * [Radiador Magazine](https://drive.google.com/drive/folders/1UgT8dSlU2ac7M0f8xkHy5x3xllkFVBrC)
 * [Acequias](https://www.iberotorreon.mx/publico/acequias.php)
 * [Palabrijes](https://uacm.edu.mx/palabrijes/)
@@ -123,6 +125,10 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Cinosargo](https://www.cinosargo.cl/)
 * [Carcaj](https://carcaj.cl/)
 
+#### Venezuela
+
+* [POESIA](https://poesia.uc.edu.ve/)
+
 #### España
 
 * [Ajo blanco](https://www.ajoblanco.org/revistas)
@@ -131,3 +137,12 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 #### Cuba
 
 * [Rialta](https://rialta.org/archivo/prensayrevistas/)
+
+### Misceláneo
+
+* [Luna Cornea](https://ci.cultura.gob.mx/luna-cornea/)
+* [Bienal de Ilustración](https://bienaldeilustracion.com/)
+* [Catálogo Histórico Conaliteg](https://historico.conaliteg.gob.mx/)
+* [MUAC](https://muac.unam.mx/publicaciones)
+* [Museo Jumex](https://www.fundacionjumex.org/es/explora/publicaciones?utm_source=ig&utm_medium=social)
+* [Casa del Lago](https://casadellago.unam.mx/nuevo/archivo/publicaciones)
