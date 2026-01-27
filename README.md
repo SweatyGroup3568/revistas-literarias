@@ -101,6 +101,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [Migala](https://migala.mx/)
 * [Blanco Móvil](https://blancomovil.com.mx/impresa/)
 * [Irradiación](https://irradiacion.com.mx/)
+* [Tianguis de Letras](https://publicaciones.uacm.edu.mx/boletin-tianguis-de-letras)
 
 #### Argentina
 
