@@ -53,7 +53,7 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 * [Periodico de poesia (archivo)](https://archivopdp.unam.mx/)
 * [Punto de partida](https://puntodepartida.unam.mx/)
 * [Otros dialogos](https://otrosdialogos.colmex.mx/)
-* [Nexos](https://nexos.com.mx/)
+* [Hablar de poesía](https://hablardepoesia-numeros.com.ar/)
 * [Letras Libres](https://letraslibres.com/)
 * [Replicante](https://revistareplicante.com/)
 * [Timonel](https://revistatimonel.com)
@@ -63,7 +63,7 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 
 ### Notas aclaratorias
 
-1. A la hora de jugar con las palabras, puede ser útil utilizar los operadores comunes de Google (-, "", site:), siendo que algunos sitios se puedan llegar a repetir en su aparición, como es el caso de nexos. 
+1. A la hora de jugar con las palabras, puede ser útil utilizar los operadores comunes de Google (-, "", site:), siendo que algunos sitios se puedan llegar a repetir en su aparición.
 2. Para mejorar la experiencia, convendría tener instalado una extensión en el navegador para evitar que archivos PDF se descarguen automáticamente.
 3. Es posible agregar este organillero (¡Sí!, se escucha mejor que cilindrero) a los buscadores personalizados de un navegador usando "%s".
 4. Existen en los archivos de estas revistas (y de muchas otras) contenidos que están mal escaneados o son inaccesibles al no estar escaneados por OCR, o que tengan un visualizador que no es de ninguna forma un archivo que pueda ser reconocido por Google a la hora de hacer una búsqueda, por lo que si te interesa el flâneur o la errancia entre revistas, podrías consultar las redes o los repositorios de [Péndola](https://pendola.mx/).
@@ -134,6 +134,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 
 * [Ajo blanco](https://www.ajoblanco.org/revistas)
 * [Edad de la plata](http://www.edaddeplata.org/revistas_edaddeplata/)
+* [Palimpsesto](https://www.revistapalimpsesto.com)
 
 #### Cuba
 
