@@ -187,6 +187,8 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 
 ### Misceláneo
 
+* [Centro de cultura digital](https://centroculturadigital.mx/eliteratura) (e-literatura)
+* [Poetronica](https://www.poetronica.net/poesiamultimedia.html) (e-literatura)
 * [Luna Córnea](https://ci.cultura.gob.mx/luna-cornea/) (fotografía)
 * [Bienal de Ilustración](https://bienaldeilustracion.com/) (ilustración)
 * [Bienal de Pintura Rufino Tamayo](https://www.museotamayo.org/publicaciones) (ilustración)
