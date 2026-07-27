@@ -145,6 +145,7 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 * [La raíz invertida](https://www.laraizinvertida.com/)
 * [Arquitrave](https://www.arquitrave.com/archivo-69-2021.html)
 * [Revistas en red](https://amariaagudelo.github.io/revlit/archivo/)
+* [Universo Centro](https://www.universocentro.com/Edicionesanteriores.aspx)
 
 #### Peru
 
