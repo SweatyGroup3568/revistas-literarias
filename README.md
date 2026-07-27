@@ -50,8 +50,8 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 * [Literal Magazine](https://literalmagazine.com/)
 * [Circulo de poesia](https://circulodepoesia.com/)
 * [Tierra Adentro](https://tierraadentro.fondodeculturaeconomica.com/)
-* [Periodico de poesia](https://periodicodepoesia.unam.mx/)
-* [Periodico de poesia (archivo)](https://archivopdp.unam.mx/)
+* [Periódico de poesia](https://periodicodepoesia.unam.mx/)
+* [Periódico de poesia (archivo)](https://archivopdp.unam.mx/)
 * [Punto de partida](https://puntodepartida.unam.mx/)
 * [Otros dialogos](https://otrosdialogos.colmex.mx/)
 * [Jot Down](https://www.jotdown.es/)
@@ -73,7 +73,7 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 
 ### Explora
 
-Recopilación de archivos u otras revistas de cultura general para explorar.
+Recopilación de archivos u otras revistas de literatura y cultura general para explorar.
 
 #### General
 
@@ -190,14 +190,15 @@ Recopilación de archivos u otras revistas de cultura general para explorar.
 
 * [Centro de cultura digital](https://centroculturadigital.mx/eliteratura) (e-literatura)
 * [Poetronica](https://www.poetronica.net/poesiamultimedia.html) (e-literatura)
+* [Antología LiteLat](https://antologia.litelat.net/) (e-literatura)
 * [Luna Córnea](https://ci.cultura.gob.mx/luna-cornea/) (fotografía)
 * [Bienal de Ilustración](https://bienaldeilustracion.com/) (ilustración)
 * [Bienal de Pintura Rufino Tamayo](https://www.museotamayo.org/publicaciones) (ilustración)
 * [Bienal J.A. Monroy](https://bienaljamonroy.udg.mx/ediciones-anteriores) (ilustración)
 * [Catálogo Histórico Conaliteg](https://historico.conaliteg.gob.mx/)
-* [MUAC](https://muac.unam.mx/publicaciones) (arte contemporaneo)
-* [Museo Jumex](https://www.fundacionjumex.org/es/explora/publicaciones?utm_source=ig&utm_medium=social) (arte contemporaneo)
-* [Casa del Lago](https://casadellago.unam.mx/nuevo/archivo/publicaciones) (arte contemporaneo)
+* [MUAC](https://muac.unam.mx/publicaciones) (arte contemporáneo)
+* [Museo Jumex](https://www.fundacionjumex.org/es/explora/publicaciones?utm_source=ig&utm_medium=social) (arte contemporáneo)
+* [Casa del Lago](https://casadellago.unam.mx/nuevo/archivo/publicaciones) (arte contemporáneo)
 * [Revistas de ficción latinoamericana](https://ficclat.github.io/ficclat/publicaciones/) (ciencia ficción)
 * [Blast](https://revistablast.com/) (cómic/novela gráfica)
 * [Jot Down Cómics](https://comics.jotdown.es/) (cómic/novela gráfica)
