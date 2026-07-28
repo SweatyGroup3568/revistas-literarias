@@ -189,6 +189,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 ### Misceláneo
 
 * [Centro de cultura digital](https://centroculturadigital.mx/eliteratura) (e-literatura)
+* [Cartografía digital](https://www.cartografiadigital.cl/map) (e-literatura)
 * [Poetronica](https://www.poetronica.net/poesiamultimedia.html) (e-literatura)
 * [Antología LiteLat](https://antologia.litelat.net/) (e-literatura)
 * [Luna Córnea](https://ci.cultura.gob.mx/luna-cornea/) (fotografía)
