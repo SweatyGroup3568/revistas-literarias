@@ -43,7 +43,6 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 * [Revista de la Universidad](https://revistadelauniversidad.mx/)
 * [Luvina](https://luvina.com.mx/)
 * [Armas y Letras](https://armasyletrasenlinea.uanl.mx/)
-* [Liber](https://revista-liber.org/)
 * [Criticismo](https://criticismo.com/)
 * [Latin American Literature Today](https://latinamericanliteraturetoday.org/es/)
 * [Caratula](https://caratula.net/)
@@ -61,6 +60,7 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 * [La Santa Critica](https://lasantacritica.com)
 * [Rialta](https://rialta.org/)
 * [POESIA](https://poesia.uc.edu.ve/)
+* [Dossier](https://revistadossier.udp.cl/?post_type=numeros)
 
 ### Notas aclaratorias
 
@@ -91,6 +91,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [La otra](https://www.laotrarevista.com/la-otra-revista-impresa-en-linea/) (archivo)
 * [La palabra y el hombre](https://cdigital.uv.mx/collections/5b7d2054-cc69-44aa-a4dc-435865e09195) (archivo)
 * [Timonel](https://revistatimonel.com/archivo/) (archivo)
+* [Liber](https://revista-liber.org/)
 * [Invndación Castálida](https://revistas.elclaustro.mx/index.php/inundacion_castalida/issue/archive)
 * [Museo Soumaya](https://www.museosoumaya.org/revistas-anteriores/)
 * [Estudios](https://estudios.itam.mx/es)
@@ -155,7 +156,6 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 
 #### Chile
 
-* [Dossier](https://revistadossier.udp.cl/?post_type=numeros)
 * [Santiago](https://revistasantiago.cl/#)
 * [Cinosargo](https://www.cinosargo.cl/)
 * [Carcaj](https://carcaj.cl/)
