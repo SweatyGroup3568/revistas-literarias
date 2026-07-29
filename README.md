@@ -84,6 +84,9 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Tres Orillas](https://tresorillas.com/)
 * [Revistas literarias digitales en español](https://silviazuletaromano.com/la-guarida-de-ficcion/revistas-literarias-digitales-en-espanol/)
 * [Brújula PDP](https://puntodepartida.unam.mx/wp-content/uploads/2008/04/111-brujula.pdf)
+* [Cuentística](https://www.cuentistica.com/inicio)
+* [Revista Adán](https://revistadan.wordpress.com/)
+* [El narratorio](https://elnarratorio.blogspot.com/p/blog-page_5.html?m=1)
 
 #### Mexico
 
