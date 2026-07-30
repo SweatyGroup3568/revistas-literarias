@@ -78,6 +78,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 #### General
 
 * [Péndola](https://pendola.mx/)
+* [Recursos antiguos](https://www.uned.es/universidad/inicio/dam/jcr:a9126658-4c37-4b0d-996c-af6623ed2c48/LITERATURA_EN_LA_RED.pdf)
 * [Listado de revistas para publicar](https://perversionesdehombreave.blogspot.com/2018/01/listado-de-revistas-culturales-y.html?spref=fb)
 * [Cultural Magazines of Latin America](https://digital.iai.spk-berlin.de/viewer/collections/lateinamerikanische-kulturzeitschriften/)
 * [Temporales](https://wp.nyu.edu/gsas-revistatemporales/)
