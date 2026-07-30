@@ -129,6 +129,10 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Campo de relámpagos](https://web.archive.org/web/20221204183340/http://campoderelampagos.org/archivo)
 * [Palabras Malditas](https://web.archive.org/web/20080720084034/http://www.palabrasmalditas.net/portada/) (archivo)
 
+#### Uruguay
+
+* [Sonámbulo](https://talleresliterariosmonicamarchesky.blogspot.com/)
+
 #### Costa Rica
 
 * [CIICLA](https://repositorio.ciicla.ucr.ac.cr/handle/123456789/308)
