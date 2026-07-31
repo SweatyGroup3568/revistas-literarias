@@ -204,6 +204,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Bienal de Ilustración](https://bienaldeilustracion.com/) (ilustración)
 * [Bienal de Pintura Rufino Tamayo](https://www.museotamayo.org/publicaciones) (ilustración)
 * [Bienal J.A. Monroy](https://bienaljamonroy.udg.mx/ediciones-anteriores) (ilustración)
+* [Iberoamérica Ilustra](https://iberoamericailustra.com/catalog/index) (ilustración)
 * [Catálogo Histórico Conaliteg](https://historico.conaliteg.gob.mx/)
 * [MUAC](https://muac.unam.mx/publicaciones) (arte contemporáneo)
 * [Museo Jumex](https://www.fundacionjumex.org/es/explora/publicaciones?utm_source=ig&utm_medium=social) (arte contemporáneo)
