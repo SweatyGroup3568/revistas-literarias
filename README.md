@@ -105,7 +105,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Palabrijes](https://uacm.edu.mx/palabrijes/)
 * [Archivo Desobediente](https://archivodesobediente.chopo.unam.mx/index.php/Browse/objects/facet/type_facet/id/489/view/images/key/e7ea7a9363bf62768d1a37a4a0c78efa)
 * [Mi Valedor](https://www.mivaledor.com/category/revistas-digitales/)
-* [El búho](https://www.revistaelbuho.com.mx/)
+* [El búho](https://www.reneavilesfabila.com.mx/el-buho.html)
 * [Alforja](https://www.yumpu.com/user/alforjapoesia.com)
 * [Castalida](https://foem.edomex.gob.mx/publicaciones-periodicas)
 * [Pliego 16](https://es.scribd.com/user/4243760/pliego16)
