@@ -2,7 +2,7 @@
 
 Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index.php/24-ct-vi-9/399-ct-vi-9-pequeno-andres-ilustrado-ernesto-juarez-rechy) para definirlo:
 
-"**google**. m. El actual juguete sexual de Andrés, particularmente el buscador de imágenes, pero no es la imagen lo que lo atrapa (porque nunca encuentra lo que busca; en el mejor de los casos, _algo completamente distinto_, pero que llame su atención), sino buscar, _improvisar_ frente al buscador. Le gusta conjuntar palabras al azar, como “ombligo tlachique” o “nalgotronic” (sobre esta, dice que se imagina una terminal para pago con tarjeta con forma de nalgas de robot: “En este establecimiento contamos con terminales Nalgotronic”, reza el anuncio en su cabeza), **_y ver qué aparece_**. Lee con ternura las sugerencias “quizás quisiste decir…” y con ansias e incredulidad recorre las galerías de imágenes (o los bancos de textos). ǁ Hay campos semánticos en los que a Andrés le gusta jugar (por ejemplo “umbrales”, “límites”, “fronteras”), desafortunadamente el buscador no juega con él; por ejemplo a Andrés “Cumbres de Maltrata” le parece una frase tan sugerente, pero son pocas las imágenes que prestan atención a lo que aquella incita, en su gran mayoría son fotografías de carreteras, tomadas con intenciones geográficas...
+"**google**. m. El actual juguete sexual de Andrés, particularmente el buscador de imágenes, pero no es la imagen lo que lo atrapa (porque nunca encuentra lo que busca; en el mejor de los casos, _algo completamente distinto_, pero que llame su atención), sino buscar, _improvisar_ frente al buscador. Le gusta conjuntar palabras al azar, como “ombligo tlachique” o “nalgotronic” (sobre esta, dice que se imagina una terminal para pago con tarjeta con forma de nalgas de robot: “En este establecimiento contamos con terminales Nalgotronic”, reza el anuncio en su cabeza), **_y ver qué aparece_**. Lee con ternura las sugerencias “quizás quisiste decir…” y con ansias e incredulidad recorre las galerías de imágenes (o el banco de textos). ǁ Hay campos semánticos en los que a Andrés le gusta jugar (por ejemplo “umbrales”, “límites”, “fronteras”), desafortunadamente el buscador no juega con él; por ejemplo a Andrés “Cumbres de Maltrata” le parece una frase tan sugerente, pero son pocas las imágenes que prestan atención a lo que aquella incita, en su gran mayoría son fotografías de carreteras, tomadas con intenciones geográficas...
 
 **faz**. f. Andrés no desprecia a las palabras bajo ningún aspecto: pronunciadas, escritas (“delicia” no es lo mismo que “dlizia”), dibujadas, cantadas, esculpidas, actuadas, bailadas, etcétera.
 
@@ -67,7 +67,7 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 
 1. A la hora de jugar con las palabras, puede ser útil utilizar los [operadores comunes de Google](https://static.platzi.com/media/user_upload/operadores-google-9bf800c7-064f-4896-bb96-d102308db37f.jpg), para ser mas creativo al momento de extraviarse.
 2. Para mejorar la experiencia, convendría tener instalado una extensión en el navegador para evitar que archivos PDF se descarguen automáticamente.
-3. Arrojar palabras aleatorias puede no sólo ser una opción, quizá necesario también.
+3. Arrojar palabras aleatorias puede no sólo ser una opción, quizá ser completamente necesario (a menos que sepa lo que hace).
 4. Es posible agregar este organillero (¡Sí!, se escucha mejor que cilindrero) a los buscadores personalizados de un navegador usando "%s".
 5. Existen en los archivos de estas revistas (y de muchas otras) contenidos que están mal escaneados o son inaccesibles al no estar escaneados por OCR, o que tengan un visualizador que no es de ninguna forma un archivo que pueda ser reconocido por Google a la hora de hacer una búsqueda, por lo que si te interesa el flâneur o la errancia entre revistas, podrías consultar las redes o los repositorios de [Péndola](https://pendola.mx/).
 6. Todo esto es una recopilación para nada selecta y un reflejo de mi tiempo libre. La mayoría de revistas se encuentran registradas en distintos directorios como Latindex o el Centro de Información Cultural (SIC) de México, siendo las que personalmente considero que pueden tener algún tipo de contenido que sea al menos "divertido" navegar entre sus caracteres. Por tanto, si has leído hasta aquí (estarías casi tan perdido como yo), sería interesante que aportaras alguna revista de tu localidad o país dentro de la sección dispuesta debajo para organizar todas las variedades que existen que den por pauta a la divulgación de algún tipo de narrativa, poesía o ensayo, que por medio de la cultura ayudan (a veces solo por accidente) a comprender mejor nuestro mundo.
@@ -164,6 +164,8 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 
 #### Chile
 
+* [Calavera lectora](https://calaveralectora.org/revistas-de-libros-literatura/)
+* [Mal de ojo](https://revistamaldeojo.cl/revistasdigitales/)
 * [Cinosargo](https://www.cinosargo.cl/)
 * [Carcaj](https://carcaj.cl/)
 * [Palabra pública](https://palabrapublica.uchile.cl/edicion-impresa/)
