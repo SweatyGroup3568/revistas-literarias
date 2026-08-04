@@ -61,6 +61,7 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 * [Rialta](https://rialta.org/)
 * [POESIA](https://poesia.uc.edu.ve/)
 * [Dossier](https://revistadossier.udp.cl/?post_type=numeros)
+* [Santiago](https://revistasantiago.cl/#)
 
 ### Notas aclaratorias
 
@@ -163,7 +164,6 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 
 #### Chile
 
-* [Santiago](https://revistasantiago.cl/#)
 * [Cinosargo](https://www.cinosargo.cl/)
 * [Carcaj](https://carcaj.cl/)
 * [Palabra pública](https://palabrapublica.uchile.cl/edicion-impresa/)
