@@ -76,18 +76,31 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 
 Recopilación de archivos u otras revistas de literatura y cultura general para explorar.
 
-#### General
+#### Revistas electrónicas (indep. del país)
+
+* [Temporales](https://wp.nyu.edu/gsas-revistatemporales/)
+* [Tres Orillas](https://tresorillas.com/)
+* [Revista Adán](https://revistadan.wordpress.com/)
+* [La Colmena](https://lacolmena.uaemex.mx/issue/archive)
+* [Palabrerías](https://palabrerias.com/category/revista-palabrerias-3/)
+* [Aion](https://aion.mx/)
+* [Marabunta](https://revistamarabunta.net/)
+* [Revista 404](https://centroculturadigital.mx/revista-404)
+* [Enpoli](https://enpoli.com.mx/)
+* [Migala](https://migala.mx/) [archivo](https://web.archive.org/web/20260113031017/https://migala.mx/)
+* [Irradiación](https://irradiacion.com.mx/)
+* [Purgante](https://revistapurgante.com/)
+* [Hablar de poesía](https://hablardepoesia-numeros.com.ar/)
+
+#### Generales
 
 * [Péndola](https://pendola.mx/)
 * [Recursos antiguos](https://www.uned.es/universidad/inicio/dam/jcr:a9126658-4c37-4b0d-996c-af6623ed2c48/LITERATURA_EN_LA_RED.pdf) (desactualizados)
 * [Listado de revistas para publicar](https://perversionesdehombreave.blogspot.com/2018/01/listado-de-revistas-culturales-y.html?spref=fb)
 * [Cultural Magazines of Latin America](https://digital.iai.spk-berlin.de/viewer/collections/lateinamerikanische-kulturzeitschriften/)
-* [Temporales](https://wp.nyu.edu/gsas-revistatemporales/)
-* [Tres Orillas](https://tresorillas.com/)
 * [Revistas literarias digitales en español](https://silviazuletaromano.com/la-guarida-de-ficcion/revistas-literarias-digitales-en-espanol/)
 * [Brújula PDP](https://puntodepartida.unam.mx/wp-content/uploads/2008/04/111-brujula.pdf)
 * [Cuentística](https://www.cuentistica.com/inicio)
-* [Revista Adán](https://revistadan.wordpress.com/)
 * [El narratorio](https://elnarratorio.blogspot.com/p/blog-page_5.html?m=1)
 
 #### Mexico
@@ -99,7 +112,6 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Liber](https://revista-liber.org/)
 * [Invndación Castálida](https://revistas.elclaustro.mx/index.php/inundacion_castalida/issue/archive) [Recientes](https://centrosorjuana.elclaustro.mx/revistas-claustro/)
 * [Estudios](https://estudios.itam.mx/es)
-* [La Colmena](https://lacolmena.uaemex.mx/issue/archive)
 * [El cuento](https://www.elcuentorevistadeimaginacion.org/)
 * [Radiador Magazine](https://drive.google.com/drive/folders/1UgT8dSlU2ac7M0f8xkHy5x3xllkFVBrC)
 * [Acequias](https://www.iberotorreon.mx/acequias.php)
@@ -112,23 +124,16 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Siempre!](https://issuu.com/siempremexico)
 * [Las historias](https://www.lashistorias.com.mx/index.php/antologia-de-cuento/)
 * [Tintero Blanco](https://tinteroblanco.com/revistas/)
-* [Palabrerías](https://palabrerias.com/category/revista-palabrerias-3/)
-* [Migala](https://migala.mx/)
 * [Blanco Móvil](https://blancomovil.com.mx/impresa/)
-* [Irradiación](https://irradiacion.com.mx/)
 * [Tianguis de Letras](https://publicaciones.uacm.edu.mx/boletin-tianguis-de-letras)
-* [Purgante](https://revistapurgante.com/)
 * [Pirocromo](https://revistas.uaa.mx/pirocromo/issue/archive)
 * [Redoma](https://revistas.uaz.edu.mx/index.php/redoma/issue/archive)
-* [Aion](https://aion.mx/)
-* [Marabunta](https://revistamarabunta.net/)
 * [Ibídem](https://revistaibidem.wordpress.com/blog/)
-* [Revista 404](https://centroculturadigital.mx/revista-404)
-* [Enpoli](https://enpoli.com.mx/)
 * [Metamorfosis](https://drive.google.com/drive/folders/1tiuU5ctj4N2059JfurHR0gki_gWBH_2z)
 * [La Peste](https://web.archive.org/web/20230923034919/https://lapeste.mx/nueva/) (algunos numeros)
-* [Campo de relámpagos](https://web.archive.org/web/20221204183340/http://campoderelampagos.org/archivo)
-* [Palabras Malditas](https://web.archive.org/web/20080720084034/http://www.palabrasmalditas.net/portada/) (archivo)
+* [Campo de relámpagos](https://web.archive.org/web/20221204183340/http://campoderelampagos.org/archivo) (internet archive)
+* [Palabras Malditas](https://web.archive.org/web/20080720084034/http://www.palabrasmalditas.net/portada/) (internet archive)
+* [Reporte sexto piso](https://web.archive.org/web/20231023083441/https://reportesp.mx/) (internet archive)
 
 #### Uruguay
 
@@ -145,7 +150,6 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Por el camino de puan](https://porelcaminodepuan.com.ar/quienes-somos/)
 * [Buenos Aires Poetry](https://buenosairespoetry.com/)
 * [Otra Parte](https://www.revistaotraparte.com/revista-impresa/)
-* [Hablar de poesía](https://hablardepoesia-numeros.com.ar/)
 * [Orsai](https://revista.orsai.org/)
 
 #### Colombia
@@ -169,7 +173,6 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Cinosargo](https://www.cinosargo.cl/)
 * [Carcaj](https://carcaj.cl/)
 * [Palabra pública](https://palabrapublica.uchile.cl/edicion-impresa/)
-* [Oropel](https://revistaoropel.cl/)
 
 #### Venezuela
 
