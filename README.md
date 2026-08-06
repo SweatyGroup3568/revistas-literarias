@@ -76,21 +76,20 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 
 Recopilación de archivos u otras revistas de literatura y cultura general para explorar.
 
-#### Revistas electrónicas (indep. del país)
+#### Revistas formato electrónico (indep. del país)
 
 * [Temporales](https://wp.nyu.edu/gsas-revistatemporales/)
 * [Tres Orillas](https://tresorillas.com/)
-* [Revista Adán](https://revistadan.wordpress.com/)
 * [La Colmena](https://lacolmena.uaemex.mx/issue/archive)
 * [Palabrerías](https://palabrerias.com/category/revista-palabrerias-3/)
 * [Aion](https://aion.mx/)
 * [Marabunta](https://revistamarabunta.net/)
 * [Revista 404](https://centroculturadigital.mx/revista-404)
 * [Enpoli](https://enpoli.com.mx/)
-* [Migala](https://migala.mx/) [archivo](https://web.archive.org/web/20260113031017/https://migala.mx/)
 * [Irradiación](https://irradiacion.com.mx/)
 * [Purgante](https://revistapurgante.com/)
 * [Hablar de poesía](https://hablardepoesia-numeros.com.ar/)
+* [Liber](https://revista-liber.org/)
 
 #### Generales
 
@@ -102,6 +101,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Brújula PDP](https://puntodepartida.unam.mx/wp-content/uploads/2008/04/111-brujula.pdf)
 * [Cuentística](https://www.cuentistica.com/inicio)
 * [El narratorio](https://elnarratorio.blogspot.com/p/blog-page_5.html?m=1)
+* [Revista Adán](https://revistadan.wordpress.com/)
 
 #### Mexico
 
@@ -109,7 +109,6 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [La otra](https://www.laotrarevista.com/la-otra-revista-impresa-en-linea/) (archivo)
 * [La palabra y el hombre](https://cdigital.uv.mx/collections/5b7d2054-cc69-44aa-a4dc-435865e09195) (archivo)
 * [Timonel](https://revistatimonel.com/archivo/) (archivo)
-* [Liber](https://revista-liber.org/)
 * [Invndación Castálida](https://revistas.elclaustro.mx/index.php/inundacion_castalida/issue/archive) [Recientes](https://centrosorjuana.elclaustro.mx/revistas-claustro/)
 * [Estudios](https://estudios.itam.mx/es)
 * [El cuento](https://www.elcuentorevistadeimaginacion.org/)
@@ -134,6 +133,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Campo de relámpagos](https://web.archive.org/web/20221204183340/http://campoderelampagos.org/archivo) (internet archive)
 * [Palabras Malditas](https://web.archive.org/web/20080720084034/http://www.palabrasmalditas.net/portada/) (internet archive)
 * [Reporte sexto piso](https://web.archive.org/web/20231023083441/https://reportesp.mx/) (internet archive)
+* [Migala](https://migala.mx/) [(internet archive)](https://web.archive.org/web/20260113031017/https://migala.mx/)
 
 #### Uruguay
 
