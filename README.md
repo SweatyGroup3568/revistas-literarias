@@ -90,6 +90,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Purgante](https://revistapurgante.com/)
 * [Hablar de poesía](https://hablardepoesia-numeros.com.ar/)
 * [Liber](https://revista-liber.org/)
+* [Cariátide](https://revistacariatide.es/)
 
 #### Generales
 
