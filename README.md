@@ -92,6 +92,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Liber](https://revista-liber.org/)
 * [Cariátide](https://revistacariatide.es/)
 * [Otros dialogos](https://otrosdialogos.colmex.mx/)
+* [Banipal](https://revistabanipal.com/) (literatura árabe)
 
 #### Generales
 
@@ -131,6 +132,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Redoma](https://revistas.uaz.edu.mx/index.php/redoma/issue/archive)
 * [Ibídem](https://revistaibidem.wordpress.com/blog/)
 * [Metamorfosis](https://drive.google.com/drive/folders/1tiuU5ctj4N2059JfurHR0gki_gWBH_2z)
+* [Unidiversidad](https://unidiversidad.com.mx/anteriores/)
 * [La Peste](https://web.archive.org/web/20230923034919/https://lapeste.mx/nueva/) (algunos numeros)
 * [Campo de relámpagos](https://web.archive.org/web/20221204183340/http://campoderelampagos.org/archivo) (internet archive)
 * [Palabras Malditas](https://web.archive.org/web/20080720084034/http://www.palabrasmalditas.net/portada/) (internet archive)
