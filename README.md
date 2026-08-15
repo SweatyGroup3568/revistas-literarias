@@ -52,7 +52,7 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 * [Periódico de poesia](https://periodicodepoesia.unam.mx/)
 * [Periódico de poesia (archivo)](https://archivopdp.unam.mx/)
 * [Punto de partida](https://puntodepartida.unam.mx/)
-* [Letralia](https://letralia.com/) (poesía)
+* [Letralia](https://letralia.com/)
 * [Jot Down](https://www.jotdown.es/)
 * [Letras Libres](https://letraslibres.com/)
 * [Replicante](https://revistareplicante.com/)
@@ -93,6 +93,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Cariátide](https://revistacariatide.es/)
 * [Otros dialogos](https://otrosdialogos.colmex.mx/)
 * [Banipal](https://revistabanipal.com/) (literatura árabe)
+* [Aurora Cultural](https://laaurorademexico.com/cultural/)
 
 #### Generales
 
