@@ -94,6 +94,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Otros dialogos](https://otrosdialogos.colmex.mx/)
 * [Banipal](https://revistabanipal.com/) (literatura árabe)
 * [Aurora Cultural](https://laaurorademexico.com/cultural/)
+* [Post-filia](https://postfilia.com/)
 
 #### Generales
 
