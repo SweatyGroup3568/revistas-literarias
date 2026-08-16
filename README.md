@@ -84,7 +84,6 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Palabrerías](https://palabrerias.com/category/revista-palabrerias-3/)
 * [Aion](https://aion.mx/)
 * [Marabunta](https://revistamarabunta.net/)
-* [Revista 404](https://centroculturadigital.mx/revista-404)
 * [Enpoli](https://enpoli.com.mx/)
 * [Irradiación](https://irradiacion.com.mx/)
 * [Purgante](https://revistapurgante.com/)
@@ -133,7 +132,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Pirocromo](https://revistas.uaa.mx/pirocromo/issue/archive)
 * [Redoma](https://revistas.uaz.edu.mx/index.php/redoma/issue/archive)
 * [Ibídem](https://revistaibidem.wordpress.com/blog/)
-* [Metamorfosis](https://drive.google.com/drive/folders/1tiuU5ctj4N2059JfurHR0gki_gWBH_2z)
+* [Metamorfosis](https://drive.google.cosite:letralia.com/transletralia-traducciones/m/drive/folders/1tiuU5ctj4N2059JfurHR0gki_gWBH_2z)
 * [Unidiversidad](https://unidiversidad.com.mx/anteriores/)
 * [La Peste](https://web.archive.org/web/20230923034919/https://lapeste.mx/nueva/) (algunos numeros)
 * [Campo de relámpagos](https://web.archive.org/web/20221204183340/http://campoderelampagos.org/archivo) (internet archive)
@@ -182,8 +181,8 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 
 #### Venezuela
 
-* [Letralia](https://letralia.com/)
-* [Revista POESIA](https://servicio.bc.uc.edu.ve/educacion/poesia/index.htm)(archivo)
+* [Letralia](https://letralia.com/) ([archivo](https://letralia.com/archivo/))
+* [Revista POESIA](https://servicio.bc.uc.edu.ve/educacion/poesia/index.htm) (archivo)
 
 #### Puerto Rico
 
@@ -206,7 +205,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 
 ### Misceláneo
 
-* [Centro de cultura digital](https://centroculturadigital.mx/eliteratura) (e-literatura)
+* [Centro de cultura digital](https://centroculturadigital.mx/eliteratura) [Revista 404](https://centroculturadigital.mx/revista-404) (e-literatura)
 * [Cartografía digital](https://www.cartografiadigital.cl/map) (e-literatura)
 * [Poetronica](https://www.poetronica.net/poesiamultimedia.html) (e-literatura)
 * [Antología LiteLat](https://antologia.litelat.net/) (e-literatura)
