@@ -183,6 +183,9 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 
 * [Letralia](https://letralia.com/) ([archivo](https://letralia.com/archivo/))
 * [Revista POESIA](https://servicio.bc.uc.edu.ve/educacion/poesia/index.htm) (archivo)
+* [El diente roto](https://eldienteroto.org/wp49/)
+* [Madriguera](https://www.madriguera.com.ve/)
+* [Ficción breve](https://ficcionbreve.org/revistas-digitales-sobre-literatura/) (lista)
 
 #### Puerto Rico
 
