@@ -156,6 +156,8 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Buenos Aires Poetry](https://buenosairespoetry.com/)
 * [Otra Parte](https://www.revistaotraparte.com/revista-impresa/)
 * [Orsai](https://revista.orsai.org/)
+* [La idea fija](http://www.laideafija.com.ar/#revista)
+* [El interpretador](https://elinterpretador.net/) [archivo](https://revistaelinterpretador.wordpress.com/)
 
 #### Colombia
 
