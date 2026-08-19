@@ -192,6 +192,8 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 #### Puerto Rico
 
 * [Colección Puertorriqueña](https://issuu.com/coleccionpuertorriquena/stacks)
+* [AJKÖ KI](https://revistaajkoki.com/)
+* [SINABI](https://www.sinabi.go.cr/biblioteca%20digital/revistas/index.aspx) (revistas antigüas)
 
 #### Cuba
 
