@@ -158,6 +158,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Orsai](https://revista.orsai.org/)
 * [La idea fija](http://www.laideafija.com.ar/#revista)
 * [El interpretador](https://elinterpretador.net/) [archivo](https://revistaelinterpretador.wordpress.com/)
+* [Revistas UBA](https://revistas.filo.uba.ar/index.php/index/index)
 
 #### Colombia
 
