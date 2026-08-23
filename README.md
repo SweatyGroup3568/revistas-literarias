@@ -107,7 +107,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [El narratorio](https://elnarratorio.blogspot.com/p/blog-page_5.html?m=1)
 * [Revista Adán](https://revistadan.wordpress.com/)
 
-#### Mexico
+#### México
 
 * [Conspiratio](https://www.conspiratio.mx/numeros-pasados) (archivo)
 * [La otra](https://www.laotrarevista.com/la-otra-revista-impresa-en-linea/) (archivo)
@@ -168,11 +168,11 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Revistas en red](https://amariaagudelo.github.io/revlit/archivo/)
 * [Universo Centro](https://www.universocentro.com/Edicionesanteriores.aspx)
 
-#### Peru
+#### Perú
 
 * [CEDOC](https://cedoc.sisbib.unmsm.edu.pe/biblioteca-digital/revistas)
 * [Santa Rabia Poetry](https://santarabiapoetry.com/)
-* [Vallejo and Company](https://www.vallejoandcompany.com/)
+* [Vallejo and Company](https://www.vallejoandcompany.com/) [Internet archive](https://web.archive.org/web/20260613063358/https://www.vallejoandcompany.com/)
 
 #### Chile
 
@@ -194,7 +194,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 
 * [Colección Puertorriqueña](https://issuu.com/coleccionpuertorriquena/stacks)
 * [AJKÖ KI](https://revistaajkoki.com/)
-* [SINABI](https://www.sinabi.go.cr/biblioteca%20digital/revistas/index.aspx) (revistas antigüas)
+* [SINABI](https://www.sinabi.go.cr/biblioteca%20digital/revistas/index.aspx) (revistas antiguas)
 
 #### Cuba
 
@@ -210,6 +210,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Cuadernos Hispanoamericanos](https://www.cervantesvirtual.com/partes/235792/cuadernos-hispanoamericanos-80) (archivo)
 * [Zenda Libros](https://www.zendalibros.com/)
 * [NARRATIVAS](https://www.revistanarrativas.com/)
+* [Ceniza](https://cenizarevista.sumupstore.com/pagina/numeros)
 
 ### Misceláneo
 
