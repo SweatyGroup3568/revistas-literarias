@@ -114,6 +114,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [La palabra y el hombre](https://cdigital.uv.mx/collections/5b7d2054-cc69-44aa-a4dc-435865e09195) (archivo)
 * [Timonel](https://revistatimonel.com/archivo/) (archivo)
 * [Invndación Castálida](https://revistas.elclaustro.mx/index.php/inundacion_castalida/issue/archive) [Recientes](https://centrosorjuana.elclaustro.mx/revistas-claustro/)
+* [El bibliotecario](https://dgb.cultura.gob.mx/seleccionar_revista.php)
 * [Estudios](https://estudios.itam.mx/es)
 * [El cuento](https://www.elcuentorevistadeimaginacion.org/)
 * [Radiador Magazine](https://drive.google.com/drive/folders/1UgT8dSlU2ac7M0f8xkHy5x3xllkFVBrC)
