@@ -161,6 +161,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [La idea fija](http://www.laideafija.com.ar/#revista)
 * [El interpretador](https://elinterpretador.net/) [archivo](https://revistaelinterpretador.wordpress.com/)
 * [Revistas UBA](https://revistas.filo.uba.ar/index.php/index/index)
+* [Biblioteca Nacional Mariano Moreno](https://www.bn.gov.ar/micrositios/revistas/todos)
 
 #### Colombia
 
