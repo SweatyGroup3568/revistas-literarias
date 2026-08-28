@@ -94,6 +94,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Banipal](https://revistabanipal.com/) (literatura árabe)
 * [Aurora Cultural](https://laaurorademexico.com/cultural/)
 * [Post-filia](https://postfilia.com/)
+* [Magis](https://magis.iteso.mx/secciones/)
 
 #### Generales
 
@@ -212,6 +213,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Zenda Libros](https://www.zendalibros.com/)
 * [NARRATIVAS](https://www.revistanarrativas.com/)
 * [Ceniza](https://cenizarevista.sumupstore.com/pagina/numeros)
+* [CTXT](https://ctxt.es/es/20251101/Culturas/)
 
 ### Misceláneo
 
