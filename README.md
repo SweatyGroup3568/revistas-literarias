@@ -47,17 +47,17 @@ Puede que haga falta más de un [diccionario](https://casadeltiempo.uam.mx/index
 * [Latin American Literature Today](https://latinamericanliteraturetoday.org/es/)
 * [Caratula](https://caratula.net/)
 * [Literal Magazine](https://literalmagazine.com/)
-* [Circulo de poesia](https://circulodepoesia.com/)
+* [Círculo de poesía](https://circulodepoesia.com/)
 * [Tierra Adentro](https://tierraadentro.fondodeculturaeconomica.com/)
-* [Periódico de poesia](https://periodicodepoesia.unam.mx/)
-* [Periódico de poesia (archivo)](https://archivopdp.unam.mx/)
+* [Periódico de poesía](https://periodicodepoesia.unam.mx/)
+* [Periódico de poesía (archivo)](https://archivopdp.unam.mx/)
 * [Punto de partida](https://puntodepartida.unam.mx/)
 * [Letralia](https://letralia.com/)
 * [Jot Down](https://www.jotdown.es/)
 * [Letras Libres](https://letraslibres.com/)
 * [Replicante](https://revistareplicante.com/)
 * [Timonel](https://revistatimonel.com)
-* [La Santa Critica](https://lasantacritica.com)
+* [La Santa Crítica](https://lasantacritica.com)
 * [Rialta](https://rialta.org/)
 * [POESIA](https://poesia.uc.edu.ve/)
 * [Dossier](https://revistadossier.udp.cl/?post_type=numeros)
@@ -96,14 +96,16 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Post-filia](https://postfilia.com/)
 * [Magis](https://magis.iteso.mx/secciones/)
 
-#### Generales
+#### Listados
 
 * [Péndola](https://pendola.mx/)
-* [Recursos antiguos](https://www.uned.es/universidad/inicio/dam/jcr:a9126658-4c37-4b0d-996c-af6623ed2c48/LITERATURA_EN_LA_RED.pdf) (desactualizados)
+* [Herramientas para el estudio](https://www.uned.es/universidad/inicio/dam/jcr:a9126658-4c37-4b0d-996c-af6623ed2c48/LITERATURA_EN_LA_RED.pdf) (recursos antiguos)
 * [Listado de revistas para publicar](https://perversionesdehombreave.blogspot.com/2018/01/listado-de-revistas-culturales-y.html?spref=fb)
 * [Cultural Magazines of Latin America](https://digital.iai.spk-berlin.de/viewer/collections/lateinamerikanische-kulturzeitschriften/)
 * [Revistas literarias digitales en español](https://silviazuletaromano.com/la-guarida-de-ficcion/revistas-literarias-digitales-en-espanol/)
 * [Brújula PDP](https://puntodepartida.unam.mx/wp-content/uploads/2008/04/111-brujula.pdf)
+* [Sitios de interes PDP](https://puntoenlinea.unam.mx/index.php/sitios-de-interes)
+* [Andrés Bucio](https://andresbucio.com/2017/06/21/revistas-literarias/)
 * [Cuentística](https://www.cuentistica.com/inicio)
 * [El narratorio](https://elnarratorio.blogspot.com/p/blog-page_5.html?m=1)
 * [Revista Adán](https://revistadan.wordpress.com/)
@@ -124,7 +126,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Mi Valedor](https://www.mivaledor.com/category/revistas-digitales/)
 * [El búho](https://www.reneavilesfabila.com.mx/el-buho.html)
 * [Alforja](https://www.yumpu.com/user/alforjapoesia.com)
-* [Castalida](https://foem.edomex.gob.mx/publicaciones-periodicas)
+* [Castálida](https://foem.edomex.gob.mx/publicaciones-periodicas)
 * [Pliego 16](https://es.scribd.com/user/4243760/pliego16)
 * [Siempre!](https://issuu.com/siempremexico)
 * [Las historias](https://www.lashistorias.com.mx/index.php/antologia-de-cuento/)
@@ -132,15 +134,18 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Blanco Móvil](https://blancomovil.com.mx/impresa/)
 * [Tianguis de Letras](https://publicaciones.uacm.edu.mx/boletin-tianguis-de-letras)
 * [Pirocromo](https://revistas.uaa.mx/pirocromo/issue/archive)
+* [Enchiridion](https://revistaenchiridion.wordpress.com/revista-digital/)
 * [Redoma](https://revistas.uaz.edu.mx/index.php/redoma/issue/archive)
 * [Ibídem](https://revistaibidem.wordpress.com/blog/)
 * [Metamorfosis](https://drive.google.cosite:letralia.com/transletralia-traducciones/m/drive/folders/1tiuU5ctj4N2059JfurHR0gki_gWBH_2z)
 * [Unidiversidad](https://unidiversidad.com.mx/anteriores/)
 * [La Peste](https://web.archive.org/web/20230923034919/https://lapeste.mx/nueva/) (algunos numeros)
+* [Iboga](https://revistaiboga.com/)
 * [Campo de relámpagos](https://web.archive.org/web/20221204183340/http://campoderelampagos.org/archivo) (internet archive)
 * [Palabras Malditas](https://web.archive.org/web/20080720084034/http://www.palabrasmalditas.net/portada/) (internet archive)
 * [Reporte sexto piso](https://web.archive.org/web/20231023083441/https://reportesp.mx/) (internet archive)
 * [Migala](https://migala.mx/) [(internet archive)](https://web.archive.org/web/20260113031017/https://migala.mx/)
+* [Plástico](https://web.archive.org/web/20240518101859/https://revistaplastico.com/) (internet archive)
 
 #### Uruguay
 
@@ -162,6 +167,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [El interpretador](https://elinterpretador.net/) [archivo](https://revistaelinterpretador.wordpress.com/)
 * [Revistas UBA](https://revistas.filo.uba.ar/index.php/index/index)
 * [Biblioteca Nacional Mariano Moreno](https://www.bn.gov.ar/micrositios/revistas/todos)
+* [Abisinia](https://www.abisiniareview.com/)
 
 #### Colombia
 
@@ -206,6 +212,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 #### España
 
 * [Ajo blanco](https://www.ajoblanco.org/revistas)
+* [Poéticas](https://poeticas.org/index.php/poeticas/pages/view/equipo)
 * [Edad de la plata](http://www.edaddeplata.org/revistas_edaddeplata/)
 * [Ethic](https://ethic.es/)
 * [HermanoCerdo](https://hermanocerdo.com/)
@@ -241,3 +248,4 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Gatopardo](https://www.gatopardo.com/) (crónica)
 * [Anfibia](https://www.revistaanfibia.com/) (crónica)
 * [La Tempestad](https://www.latempestad.mx/) (arte/actualidad)
+* [Medicina y cultura UNAM](https://www.revistamedicinaycultura.fmposgrado.unam.mx/) (medicina)
