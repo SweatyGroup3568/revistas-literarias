@@ -162,7 +162,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Por el camino de puan](https://porelcaminodepuan.com.ar/quienes-somos/)
 * [Buenos Aires Poetry](https://buenosairespoetry.com/)
 * [Otra Parte](https://www.revistaotraparte.com/revista-impresa/)
-* [Orsai](https://revista.orsai.org/)
+* [Orsai](https://revistaorsai.com/) [Numeros](https://revista.orsai.org/)
 * [La idea fija](http://www.laideafija.com.ar/#revista)
 * [El interpretador](https://elinterpretador.net/) [archivo](https://revistaelinterpretador.wordpress.com/)
 * [Revistas UBA](https://revistas.filo.uba.ar/index.php/index/index)
