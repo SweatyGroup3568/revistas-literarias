@@ -95,6 +95,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [Aurora Cultural](https://laaurorademexico.com/cultural/)
 * [Post-filia](https://postfilia.com/)
 * [Magis](https://magis.iteso.mx/secciones/)
+* [Baquiana](https://baquiana.com/)
 
 #### Listados
 
@@ -222,6 +223,7 @@ Recopilación de archivos u otras revistas de literatura y cultura general para 
 * [NARRATIVAS](https://www.revistanarrativas.com/)
 * [Ceniza](https://cenizarevista.sumupstore.com/pagina/numeros)
 * [CTXT](https://ctxt.es/es/20251101/Culturas/)
+* [Revista de letras](https://web.archive.org/web/20220127193817/https://revistadeletras.net/) (internet archive)
 
 ### Misceláneo
 
